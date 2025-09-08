@@ -1,2 +1,3 @@
-# GoogleCybersecurityCertification
- Portfolio for the Google Cybersecurity Professional Certificate. This repository serves as a showcase for the practical, hands-on projects I've completed throughout the program.
+# Google Cybersecurity Professional Certificate Portfolio
+ Welcome to my portfolio for the Google Cybersecurity Professional Certificate. This repository serves as a showcase for the practical, hands-on projects I've completed throughout the program. Each project represents a core competency in cybersecurity, from foundational Python scripting for automation to complex log analysis and incident investigation using real-world tools.  
+Here, you'll find evidence of my ability to identify vulnerabilities, assess risks, detect and respond to incidents, and communicate findings effectively—all crucial skills for an entry-level cybersecurity professional.
